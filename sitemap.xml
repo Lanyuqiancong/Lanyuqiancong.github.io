@@ -51,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://blog.qiancong.me/categories/index.html</loc>
-    
-    <lastmod>2020-10-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.qiancong.me/gallery/index.html</loc>
     
     <lastmod>2020-10-07</lastmod>
@@ -65,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://blog.qiancong.me/gallery/sakuramayi.html</loc>
+    <loc>https://blog.qiancong.me/gallery/saber.html</loc>
     
     <lastmod>2020-10-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.qiancong.me/gallery/saber.html</loc>
+    <loc>https://blog.qiancong.me/gallery/sakuramayi.html</loc>
     
     <lastmod>2020-10-07</lastmod>
     
@@ -93,14 +86,21 @@
   </url>
   
   <url>
-    <loc>https://blog.qiancong.me/link/index.html</loc>
+    <loc>https://blog.qiancong.me/reward/index.html</loc>
     
     <lastmod>2020-10-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.qiancong.me/reward/index.html</loc>
+    <loc>https://blog.qiancong.me/categories/index.html</loc>
+    
+    <lastmod>2020-10-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.qiancong.me/link/index.html</loc>
     
     <lastmod>2020-10-07</lastmod>
     
@@ -123,7 +123,7 @@
 
   <url>
     <loc>https://blog.qiancong.me/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -131,28 +131,28 @@
   
   <url>
     <loc>https://blog.qiancong.me/tags/hexo/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.qiancong.me/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.qiancong.me/tags/vercel/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.qiancong.me/tags/%E5%89%AA%E8%BE%91/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -161,35 +161,35 @@
   
   <url>
     <loc>https://blog.qiancong.me/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.qiancong.me/categories/%E5%89%AA%E8%BE%91/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.qiancong.me/categories/%E6%95%99%E7%A8%8B/hexo/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.qiancong.me/categories/%E5%89%AA%E8%BE%91/%E7%AC%A0%E7%AC%A0%E7%AC%A0/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.qiancong.me/categories/%E6%95%99%E7%A8%8B/hexo/vercel/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
